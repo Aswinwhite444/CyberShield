@@ -1,0 +1,8 @@
+
+{
+  "name": "CyberShield Academy",
+  "description": "A gamified security awareness training platform where users level up their cyber-defense skills through interactive missions, AI-powered phishing simulations, and competitive quizzes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
